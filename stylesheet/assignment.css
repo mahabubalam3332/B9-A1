@@ -1,0 +1,70 @@
+* {
+  margin: 0 auto;
+}
+
+/* header-section */
+.header-highlighter {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  padding: 16px 345px 177px 345px;
+
+}
+
+.heaer-title {
+  color: #FFF;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+  padding-top: 177px;
+  gap: 16px;
+}
+
+#container {
+  background-image: url('../B9A1-New-Year-New-Mission/resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 5px;
+}
+
+/* .advertisement */
+.advertisement-title {
+  color: #F00;
+  text-align: center;
+  font-size: 88px;
+  font-weight: 700;
+  padding: 120px 460px 48px 460px;
+}
+
+.advertisement-description {
+  color: #F00;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  padding: 0px 450px;
+
+}
+
+.advertisement-subtitle {
+  color: #070211;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  padding: 16px 450px;
+}
+
+.advertisement-image img {
+  width: 800px;
+  display: block;
+  padding: 48px 260px;
+}
+
+/* midnight-section */
+.midnight-title {
+  color: #FFF;
+  font-size: 64px;
+  font-weight: 900;
+}
